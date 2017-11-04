@@ -1,7 +1,7 @@
 # 2° Taller Blockchain - CryptoMKT
 
 
-     En esta sección del taller, es donde metemos las manos! la idea es tener una primera experiencia directa con las más comunes herramientas de la red ethereum, la idea es que sea capaz de meterte por ti mism@, guiado por medio de este documento.Sin embargo, los monitores están para ayudarte. No dudes en consultarles!
+  En esta sección del taller es donde metemos las manos! la idea es tener una primera experiencia directa con las más comunes herramientas de la red ethereum, la idea es que sea capaz de meterte por ti mism@, guiado por medio de este documento.Sin embargo, los monitores están para ayudarte. No dudes en consultarles!
 
 * Billetera/Wallet Metamask. Este software se utiliza para almacenar y transferir valores digitales en la red ethereum.
   * [Chrome](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=gmail)
