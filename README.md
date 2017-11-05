@@ -17,3 +17,6 @@
 * Aquí viene lo entretenido, este código le permitirá crear el token, dicho token es un Smart Contract compilable. Por medio de él se crearan fichas, con una cantidad fija definida por ti mismo como creador. Lo relevante de este token es que tiene los métodos ya programados para que dichas fichas sean transferibles entre TODOS los usuarios de la red ethereum-rinkeby, y como todo en el blockchain de ethereum es completamente verificable su existencia. Te invito a enviarle token a algún compañero dentro de la sala.
   * [Smart Contract - ERC 20](https://github.com/rtroncosogar/TallerBlockchain/blob/master/erc20.sol) 
   
+Ante cualquier duda u obervación, dejo mi correo
+
+rtroncosogar@gmail.com / rodolfo@itaxxion.cl
