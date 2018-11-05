@@ -1,6 +1,13 @@
 pragma solidity ^0.4.22;
 
 import "./EIP20Interface.sol";
+/*
+	Para importar y usar desde remix sin depenencias, comentar el primer import y
+	descomentar el siguiente:
+	
+*/
+//import "https://raw.githubusercontent.com/rtroncosogar/TallerBlockchain/master/EIP20Interface.sol";
+
 
 contract EIP is EIP20Interface {
   	uint256 constant private MAX_UINT256 = 2**256 - 1;
