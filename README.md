@@ -1,9 +1,9 @@
-# 2° Taller Blockchain - CryptoMKT
+# 2° Taller Blockchain - DigitalBank / ITAxxion
 
 
   En esta sección del taller es donde metemos las manos! la idea es tener una primera experiencia directa con las más comunes herramientas de la red ethereum, la idea es que sea capaz de meterte por ti mism@, guiado por medio de este documento.Sin embargo, los monitores están para ayudarte. No dudes en consultarles!
 
-* Billetera/Wallet Metamask. Este software se utiliza para almacenar y transferir valores digitales en la red ethereum, te invito a que uses la que mejor se acomode a ti y en caso de ya ser usuario de alguna de estas, le comentes al respecto a algún momitor, pues vamos a usarla en la red rinkeby de ethereum.
+* Billetera/Wallet Metamask. Este software se utiliza para almacenar y transferir valores digitales en la red ethereum, te invito a que uses la que mejor se acomode a ti y en caso de ya ser usuario de alguna de estas, le comentes al respecto a algún monitor, pues vamos a usarla en la red rinkeby de ethereum.
   * [Chrome](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=gmail)
   * [Mozilla](https://addons.mozilla.org/es/firefox/addon/ether-metamask/)
   * [MyEtherWallet](https://www.myetherwallet.com/)
@@ -19,4 +19,4 @@
   
 Ante cualquier duda u obervación, dejo mi correo
 
-rtroncosogar@gmail.com / rodolfo@itaxxion.cl
+rodolfo@itaxxion.cl / angelo@itaxxion.cl
