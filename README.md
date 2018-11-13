@@ -1,4 +1,4 @@
-# 1° Taller Blockchain - DigitalBank / ITAxxion
+# 2° Taller Blockchain - Telemática USM
 
 
   En esta sección del taller es donde metemos las manos! la idea es tener una primera experiencia directa con las más comunes herramientas de la red ethereum, la idea es que sea capaz de meterte por ti mism@, guiado por medio de este documento.Sin embargo, los monitores están para ayudarte. No dudes en consultarles!
@@ -18,4 +18,4 @@
   
 Ante cualquier duda u obervación, dejo mi correo
 
-rodolfo@itaxxion.cl / angelo@itaxxion.cl
+rodolfo.troncoso@alumnos.usm.cl / david.tapia@alumnos.usm.cl
